@@ -1,7 +1,20 @@
 {
     "users": [
+        
+  {
+    "username": "Pritam Halder",
+    "email": "p@gmail.com",
+    "password": "123",
+    "id": 1
+  },
+  {
+    "username": "P Halder",
+    "email": "a@gmail.com",
+    "password": "123",
+    "id": 2
+  }
     ],
-    "forum":[
+    "income":[
       
     ]
 }
